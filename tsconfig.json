@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "target": "ES2018",
+    "outDir": "./dist",
+    "module": "es2022",
+    "moduleResolution": "node"
+  },
+  "files": ["src/index.ts", "src/utils.ts"]
+}
